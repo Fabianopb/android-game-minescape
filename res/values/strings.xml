@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MineScape</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="loading">loading&#8230;</string>
+    
+    <string name="rater_rate">Rate&#160;</string>
+	<string name="rater_title1">If you enjoy playing&#160;</string>
+	<string name="rater_title2">&#160;, please take a moment to rate it. Thanks for your support!</string>
+	<string name="rater_later">Later</string>
+	<string name="rater_no">No</string>
+	
+	<string name="play">Play</string>
+	<string name="village">Village</string>
+	<string name="about">Totals</string>
+	<string name="credits">CREDITS</string>
+	
+	<string name="distance">Distance:</string>
+	<string name="monsters">Monsters killed:</string>
+	<string name="crafting_table">Crafting Table</string>
+	<string name="new_sword">_CRAFT NEW SWORD</string>
+	<string name="new_armor">_CRAFT NEW ARMOR</string>
+	<string name="current_material">Your current resources:</string>
+	<string name="not_enough_resources">You don\'t have enough resources!</string>
+	<string name="iron_sword">Iron Sword</string>
+	<string name="gold_sword">Gold Sword</string>
+	<string name="diamond_sword">Diamond Sword</string>
+	<string name="obsidian_sword">Obsidian Sword</string>
+	<string name="iron_armor">Iron Armor</string>
+	<string name="gold_armor">Gold Armor</string>
+	<string name="diamond_armor">Diamond Armor</string>
+	<string name="obsidian_armor">Obsidian Armor</string>
+	
+	<string name="game_over">Game Over</string>
+	<string name="continue_game">Go!</string>
+	<string name="giveup_game">Nope</string>
+	<string name="reward_video">You got far! Watch a short video and continue playing from here!</string>
+	
+	<!-- dialog messages -->
+	<string name="sign_in_title">Sign In</string>
+	<string name="sign_in_msg">Sign In to Google Play and have access to leaderboards and new achievements?</string>
+	<string name="sign_out_title">Sign Out</string>
+	<string name="sign_out_msg">Are you sure you want to Sign Out of Google Play?</string>
+	<string name="quit_title">Quit game</string>
+	<string name="quit_msg">Your current progress will be lost. Are you sure you want to quit?</string>
+	<string name="exit_title">Exit</string>
+	<string name="exit_msg">Are you sure you want to exit?</string>
+	<string name="confirm_craft_title">Craft item</string>
+	<string name="confirm_craft_msg">Do you want to craft this</string>
+	<string name="village_title">Upgrade village</string>
+	<string name="village_message">Do you want to upgrade your village to the next level?</string>
+	<string name="achievements_100m_title">Warming up</string>
+    <string name="achievements_200m_title">Don\'t stop me!</string>
+    <string name="achievements_500m_title">Now it\'s serious</string>
+    <string name="achievements_1000m_title">Endurance</string>
+    <string name="achievements_iron_title">Iron warrior</string>
+    <string name="achievements_gold_title">Gold warrior</string>
+    <string name="achievements_diamond_title">Diamond warrior</string>
+    <string name="achievements_obsidian_title">Obsidian warrior</string>
+	<string name="achievements_100m">To complete this achievement you must cover at least 100 meters in only one sprint.</string>
+    <string name="achievements_200m">To complete this achievement you must cover at least 200 meters in only one sprint.</string>
+    <string name="achievements_500m">To complete this achievement you must cover at least 500 meters in only one sprint.</string>
+    <string name="achievements_1000m">To complete this achievement you must cover at least 1000 meters in only one sprint.</string>
+    <string name="achievements_iron">To complete this achievement you must craft one iron sword and one iron armor in the same sprint.</string>
+    <string name="achievements_gold">To complete this achievement you must craft one gold sword and one gold armor in the same sprint.</string>
+    <string name="achievements_diamond">To complete this achievement you must craft one diamond sword and one diamond armor in the same sprint.</string>
+    <string name="achievements_obsidian">To complete this achievement you must craft one obsidian sword and one obsidian armor in the same sprint.</string>
+    <string name="achievement_get_title">Achievement get!</string>
+    <string name="achievement_get_message">You have completed the achievement:</string>
+    <string name="achievement_reward">You was rewarded with</string>
+    <string name="reward_sword_iron">an iron sword!</string>
+    <string name="reward_sword_gold">a gold sword!</string>
+    <string name="reward_sword_diamond">a diamond sword!</string>
+    <string name="reward_sword_obsidian">an obsidian sword!</string>
+    <string name="reward_iron">pieces of iron</string>
+    <string name="reward_gold">pieces of gold</string>
+    <string name="reward_diamond">pieces of diamond</string>
+	<string name="yes">YES</string>
+	<string name="no">NO</string>
+	
+	<!-- village strings -->
+	<string name="resources">Resources</string>
+	<string name="village_level">Village\nLevel:</string>
+	<string name="share_village_level">VILLAGE LEVEL&#160;</string>
+	<string name="share_village_text_a">My village is level&#160;</string>
+	<string name="share_village_text_b">&#160;in #MineScape! It\'s free for #Android: goo.gl/UX79Z0</string>
+	<string name="share_dialog_title">Share for diamonds!</string>
+	<string name="share_dialog_msg_a">Share your village on twitter and get&#160;</string>
+	<string name="share_dialog_msg_b">&#160;diamonds!</string>
+	<string name="share_success_title">Awesome!</string>
+	<string name="share_success_text">Thanks! you got plenty of diamonds! :)</string>
+	<string name="share_fail_title">Shhhh&#8230;</string>
+	<string name="share_fail_text">This is creeping, an error has occurred! :/</string>
+	<string name="upgrade">UPGRADE!</string>
+	<string name="upgrade_cost">Next level:</string>
+	<string name="upgrade_completed">No more upgrades available now. New are coming soon! :)</string>
+	
+	<!-- totals strings -->
+	<string name="totals_monsters_max">Max monsters killed in one sprint:</string>
+	<string name="totals_distance_max">Max distance covered in one sprint:</string>
+	<string name="totals_achievements">Achievements:</string>
+	<string name="totals_achievements_sub">(Tap over an achievement to get details)</string>
+	<string name="overall_score">Overall Score:</string>
+	<string name="position_leaderboard">your position in\nthe leaderboard!</string>
+	<string name="more_achievements">get more\nachievements!</string>
+	
+	<!-- credits strings -->
+	<string name="credits_visivae">_Game concept, game design, art design and programing:\n
+        Fabiano Paiva and Adriana Minhoto from Visivae Mobile team</string>
+    <string name="credits_music">_Music:\n
+        Impact Andante by Kevin MacLeod (incompetech.com)</string>
+    <string name="credits_sfx">_Sound Effects:\n
+        Sound effects under Attribution License:\n
+        Click3 by EdgardEdition (www.freesound.org/people/EdgardEdition)\n
+        Melee Attack 3 by unfa (www.freesound.org/people/unfa)\n
+        Very Fast Bubble Pop1 by CGEffex (www.freesound.org/people/CGEffex)\n
+        aaronsiler_musket4 by CGEffex (www.freesound.org/people/aaronsiler)\n
+        Growl2 by Nmb910 (www.freesound.org/people/Nmb910)\n
+        gravel4 by Snoman (www.freesound.org/people/Snoman)\n
+        And other sound effects under Creative Commons 0 License.</string>
+    
+    <!-- tutorial strings -->
+    <string name="tutorial">Show tutorial messages during the game</string>
+    <string name="tutorial_welcome_title">Welcome to Minescape!</string>
+    <string name="tutorial_welcome_message">Tap the screen to attack. Drag your finger up to jump and double-jump. You can disable tutorial messages on the main menu, under \'Totals\'.</string>
+    <string name="tutorial_enemy_title">An enemy!</string>
+    <string name="tutorial_enemy_message">Attack the enemy until he dies! Be careful to not let it touch you.</string>
+    <string name="tutorial_mineral_title">A raw material!</string>
+    <string name="tutorial_mineral_message">Hit the raw material until you break it to get resources.</string>
+    <string name="tutorial_beef_title">A piece of heart!</string>
+    <string name="tutorial_beef_message">Get it to recover some health.</string>
+    <string name="tutorial_resource_title">Resources are fundamental!</string>
+    <string name="tutorial_resource_message">Collect resources to craft swords, armors and to raise your village!</string>
+    <string name="tutorial_crafting_title">Time to craft!</string>
+    <string name="tutorial_crafting_message">Get close to the table and tap over it to craft swords and armors!</string>
+    <string name="tutorial_creeper_title">Creeping creature!</string>
+    <string name="tutorial_creeper_message">Watch out for this creeping creature. Run away from it as fast as you can!</string>
+    
+    <!-- share -->
+    <string name="share_title">Share MineScape!</string>
+    <string name="share_text">I was playing MineScape and I believe you\'ll like it too! Try this adventure now!</string>
+    
+    <string name="coming_soon">Coming soon! :)</string>
+    
+    <string name="google_play_not_logged_in">You need to log in with your Google ID!</string>
+    <string name="log_in_failed">Log in failed!</string>
+    
+    
+
+</resources>

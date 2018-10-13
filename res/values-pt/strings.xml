@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MineScape</string>
+    
+    <string name="loading">carregando&#8230;</string>
+    
+    <string name="rater_rate">Avalie&#160;</string>
+	<string name="rater_title1">Se voce gostou de jogar&#160;</string>
+	<string name="rater_title2">&#160;, por favor gaste um momento para avalia-lo. Muito obrigado pelo seu apoio!</string>
+	<string name="rater_later">Depois</string>
+	<string name="rater_no">Nao</string>
+	
+	<string name="play">Jogar</string>
+	<string name="village">Vila</string>
+	<string name="about">Totais</string>
+	<string name="credits">CREDITOS</string>
+	
+	<string name="distance">Distancia:</string>
+	<string name="monsters">Monstros mortos:</string>
+	<string name="crafting_table">Mesa de Craftar</string>
+	<string name="new_sword">_CRAFTAR ESPADA</string>
+	<string name="new_armor">_CRAFTAR ARMADURA</string>
+	<string name="current_material">Seus recursos atuais:</string>
+	<string name="not_enough_resources">Você não tem recursos suficientes!</string>
+	<string name="iron_sword">Espada de Ferro</string>
+	<string name="gold_sword">Espada de Ouro</string>
+	<string name="diamond_sword">Espada de Diamante</string>
+	<string name="obsidian_sword">Espada de Obsidiana</string>
+	<string name="iron_armor">Armadura de Ferro</string>
+	<string name="gold_armor">Armadura de Ouro</string>
+	<string name="diamond_armor">Armadura de Diamante</string>
+	<string name="obsidian_armor">Armadura de Obsidiana</string>
+	
+	<string name="game_over">Fim de jogo</string>
+	<string name="continue_game">Continuar</string>
+	
+	<!-- dialog messages -->
+	<string name="sign_in_title">Log In</string>
+	<string name="sign_in_msg">Log In no Google Play para ter acesso a placares e conquistas?</string>
+	<string name="sign_out_title">Log Out</string>
+	<string name="sign_out_msg">Você tem certeza que deseja sair do Google Play?</string>
+	<string name="quit_title">Sair do jogo</string>
+	<string name="quit_msg">Voce perdera seu progresso. Tem certeza que deseja sair?</string>
+	<string name="exit_title">Sair</string>
+	<string name="exit_msg">Tem certeza que deseja sair?</string>
+	<string name="confirm_craft_title">Craftar item</string>
+	<string name="confirm_craft_msg">Voce deseja craftar uma</string>
+	<string name="village_title">Construir vila</string>
+	<string name="village_message">Voce quer construir e passar sua vila para o proximo nivel?</string>
+	<string name="achievements_100m_title">Aquecendo</string>
+    <string name="achievements_200m_title">Nao posso parar!</string>
+    <string name="achievements_500m_title">Agora e serio</string>
+    <string name="achievements_1000m_title">Resistencia</string>
+    <string name="achievements_iron_title">Guerreiro de ferro</string>
+    <string name="achievements_gold_title">Guerreiro de ouro</string>
+    <string name="achievements_diamond_title">Guerreiro de diamante</string>
+    <string name="achievements_obsidian_title">Guerreiro de obsidiana</string>
+	<string name="achievements_100m">Para completar este objetivo voce deve percorrer ao menos 100 metros em uma jogada.</string>
+    <string name="achievements_200m">Para completar este objetivo voce deve percorrer ao menos 200 metros em uma jogada.</string>
+    <string name="achievements_500m">Para completar este objetivo voce deve percorrer ao menos 500 metros em uma jogada.</string>
+    <string name="achievements_1000m">Para completar este objetivo voce deve percorrer ao menos 1000 metros em uma jogada.</string>
+    <string name="achievements_iron">Para completar este objetivo voce deve craftar uma espada de ferro e uma armadura de ferro na mesma jogada.</string>
+    <string name="achievements_gold">Para completar este objetivo voce deve craftar uma espada de ouro e uma armadura de ouro na mesma jogada.</string>
+    <string name="achievements_diamond">Para completar este objetivo voce deve craftar uma espada de diamante e uma armadura de diamante na mesma jogada.</string>
+    <string name="achievements_obsidian">Para completar este objetivo voce deve craftar uma espada de obsidiana e uma armadura de obsidiana na mesma jogada.</string>
+    <string name="achievement_get_title">Objetivo completo!</string>
+    <string name="achievement_get_message">Voce completou o objetivo:</string>
+    <string name="achievement_reward">Voce foi recompensado com</string>
+    <string name="reward_sword_iron">uma espada de ferro!</string>
+    <string name="reward_sword_gold">uma espada de ouro!</string>
+    <string name="reward_sword_diamond">uma espada de diamante!</string>
+    <string name="reward_sword_obsidian">uma espada de obsidian!</string>
+    <string name="reward_iron">pecas de ferro</string>
+    <string name="reward_gold">pecas de ouro</string>
+    <string name="reward_diamond">pecas de diamante</string>
+	<string name="yes">SIM</string>
+	<string name="no">NAO</string>
+	
+	<!-- village strings -->
+	<string name="resources">Recursos</string>
+	<string name="village_level">Nivel\nda Vila:</string>
+	<string name="share_village_level">VILA NIVEL&#160;</string>
+	<string name="share_village_text_a">Minha vila está no nível&#160;</string>
+	<string name="share_village_text_b">&#160;no #MineScape! Jogo gratuito para #Android: goo.gl/UX79Z0</string>
+	<string name="share_dialog_title">Compartilhe por diamantes!</string>
+	<string name="share_dialog_msg_a">Compartilhe sua vila no Twitter e ganhe&#160;</string>
+	<string name="share_dialog_msg_b">&#160;diamantes!</string>
+	<string name="share_success_title">Incrivel!</string>
+	<string name="share_success_text">Obrigado! Voce ganhou varios diamantes! :)</string>
+	<string name="share_fail_title">Shhhh&#8230;</string>
+	<string name="share_fail_text">Isso e estranho, um erro ocorreu! :/</string>
+	<string name="upgrade">CONSTRUIR!</string>
+	<string name="upgrade_cost">Proximo nivel:</string>
+	<string name="upgrade_completed">Você não tem mais construções disponíveis no momento. Aguarde novas atualizações! :)</string>
+	
+	<!-- totals strings -->
+	<string name="totals_monsters_max">Maximo de monstros mortos em uma jogada:</string>
+	<string name="totals_distance_max">Distancia maxima em uma jogada:</string>
+	<string name="totals_achievements">Objetivos:</string>
+	<string name="totals_achievements_sub">(Toque sobre um objetivo para obter detalhes)</string>
+	<string name="overall_score">Pontos totais:</string>
+	<string name="position_leaderboard">seus pontos\nno placar!</string>
+	<string name="more_achievements">Alcance novas\nconquistas!</string>
+	
+	
+    
+    <!-- tutorial strings -->
+    <string name="tutorial">Mostrar mensagens de tutorial no jogo</string>
+    <string name="tutorial_welcome_title">Bem vindo ao MineScape!</string>
+    <string name="tutorial_welcome_message">Toque a tela para atacar. Deslize o dedo para cima para pular ate duas vezes. Desabilite estas mensagens no menu principal, em \'Totais\'.</string>
+    <string name="tutorial_enemy_title">Um inimigo!</string>
+    <string name="tutorial_enemy_message">Ataque o inimigo ate que ele morra. Nao deixe que ele toque em voce.</string>
+    <string name="tutorial_mineral_title">Materia-prima!</string>
+    <string name="tutorial_mineral_message">Bata na materia-prima ate quebra-la para pegar recursos.</string>
+    <string name="tutorial_beef_title">Parte de coracao</string>
+    <string name="tutorial_beef_message">Pegue-o para recuperar um pouco de vida.</string>
+    <string name="tutorial_resource_title">Recursos sao fundamentais!</string>
+    <string name="tutorial_resource_message">Colete recursos para craftar espadas e armaduras, e para construir uma vila!</string>
+    <string name="tutorial_crafting_title">Hora de craftar!</string>
+    <string name="tutorial_crafting_message">Encoste na mesa e toque sobre ela para craftar espadas e armaduras!</string>
+    <string name="tutorial_creeper_title">Criatura creeper!</string>
+    <string name="tutorial_creeper_message">Cuidado com esta criatura. Fuja o mais rapido que puder!</string>
+    
+    <!-- share -->
+    <string name="share_title">Compartilhe MineScape!</string>
+    <string name="share_text">Eu estava jogando MineScape e achei que você também iria gostar! Jogue esta aventura agora mesmo!</string>
+    
+    <string name="coming_soon">Em breve! :)</string>
+    
+    <string name="google_play_not_logged_in">Você precisa logar com sua ID do Google!</string>
+    <string name="log_in_failed">O Log in falhou!</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="menu_resources.png" type="bitmap" width="1014" height="390" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:62a2b8e9ae934790d4736c5ca73be440:96c9f6c7c00b4cb450406c80067c213f:39089fac5066465730a40c89005769d4$ -->
+    <textureregion id="0" src="achievements-button.png" x="606" y="2" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="1" src="achievements-tiled.png" x="733" y="176" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="2" src="button-inactive.png" x="717" y="89" width="295" height="85" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="295" srcheight="85"/>
+    <textureregion id="3" src="button.png" x="717" y="2" width="295" height="85" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="295" srcheight="85"/>
+    <textureregion id="4" src="dialog-back.png" x="2" y="2" width="500" height="250" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="500" srcheight="250"/>
+    <textureregion id="5" src="fblikethumb.png" x="935" y="253" width="75" height="75" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="75" srcheight="75"/>
+    <textureregion id="6" src="googleplaybutton.png" x="504" y="176" width="150" height="75" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="75"/>
+    <textureregion id="7" src="leaderboard-button.png" x="504" y="2" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="8" src="logo.png" x="2" y="254" width="713" height="134" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="713" srcheight="134"/>
+    <textureregion id="9" src="particle_fire.png" x="935" y="330" width="32" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="32"/>
+    <textureregion id="10" src="rate.png" x="935" y="176" width="75" height="75" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="75" srcheight="75"/>
+    <textureregion id="11" src="share.png" x="656" y="176" width="75" height="75" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="75" srcheight="75"/>
+    <textureregion id="12" src="visivae-mini.png" x="504" y="104" width="125" height="50" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="125" srcheight="50"/>
+</texture>

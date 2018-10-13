@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_id">457828005404</string>
+    
+    <string name="leaderboard_distance">CgkInOyzxakNEAIQAQ</string>
+    <string name="leaderboard_score">CgkInOyzxakNEAIQCw</string>
+    <string name="leaderboard_monsters">CgkInOyzxakNEAIQCg</string>
+    
+    <string name="achievements_going_far">CgkInOyzxakNEAIQBA</string>
+    <string name="achievements_the_marathonist">CgkInOyzxakNEAIQBQ</string>
+    <string name="achievements_slayer">CgkInOyzxakNEAIQBg</string>
+    <string name="achievements_kill_them_all">CgkInOyzxakNEAIQBw</string>
+    <string name="achievements_the_miner">CgkInOyzxakNEAIQCA</string>
+    <string name="achievements_megalomaniac">CgkInOyzxakNEAIQCQ</string>
+
+</resources>

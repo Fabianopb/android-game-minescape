@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="village_resources.png" type="bitmap" width="804" height="974" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:32745947cbf04b1699c2d130696ea25b$ -->
+    <textureregion id="0" src="items-tiled.png" x="576" y="580" width="210" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="210" srcheight="52"/>
+    <textureregion id="1" src="particle_debris.png" x="353" y="788" width="5" height="5" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="5" srcheight="5"/>
+    <textureregion id="2" src="village-forest.png" x="357" y="484" width="217" height="136" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="217" srcheight="136"/>
+    <textureregion id="3" src="village-level001.png" x="727" y="818" width="73" height="64" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="73" srcheight="64"/>
+    <textureregion id="4" src="village-level002.png" x="628" y="887" width="84" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="84" srcheight="52"/>
+    <textureregion id="5" src="village-level003.png" x="661" y="755" width="113" height="61" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="113" srcheight="61"/>
+    <textureregion id="6" src="village-level004.png" x="360" y="710" width="169" height="71" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="169" srcheight="71"/>
+    <textureregion id="7" src="village-level005.png" x="459" y="783" width="68" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="68" srcheight="52"/>
+    <textureregion id="8" src="village-level006.png" x="360" y="783" width="97" height="74" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="97" srcheight="74"/>
+    <textureregion id="9" src="village-level007.png" x="360" y="783" width="97" height="74" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="97" srcheight="74"/>
+    <textureregion id="10" src="village-level008.png" x="2" y="765" width="210" height="110" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="210" srcheight="110"/>
+    <textureregion id="11" src="village-level009.png" x="2" y="877" width="231" height="89" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="231" srcheight="89"/>
+    <textureregion id="12" src="village-level010.png" x="360" y="622" width="196" height="86" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="196" srcheight="86"/>
+    <textureregion id="13" src="village-level011.png" x="576" y="484" width="196" height="94" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="196" srcheight="94"/>
+    <textureregion id="14" src="village-level012.png" x="214" y="788" width="137" height="86" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="137" srcheight="86"/>
+    <textureregion id="15" src="village-level013a.png" x="261" y="636" width="97" height="150" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="97" srcheight="150"/>
+    <textureregion id="16" src="village-level013b.png" x="529" y="812" width="97" height="77" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="97" srcheight="77"/>
+    <textureregion id="17" src="village-level014.png" x="558" y="634" width="145" height="97" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="145" srcheight="97"/>
+    <textureregion id="18" src="village-level015a.png" x="628" y="818" width="97" height="67" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="97" srcheight="67"/>
+    <textureregion id="19" src="village-level015b.png" x="548" y="891" width="72" height="59" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="72" srcheight="59"/>
+    <textureregion id="20" src="village-level016a.png" x="531" y="733" width="128" height="77" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="77"/>
+    <textureregion id="21" src="village-level016b.png" x="374" y="859" width="89" height="94" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="89" srcheight="94"/>
+    <textureregion id="22" src="village-level017.png" x="465" y="891" width="81" height="78" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="81" srcheight="78"/>
+    <textureregion id="23" src="village-level018.png" x="235" y="876" width="137" height="89" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="137" srcheight="89"/>
+    <textureregion id="24" src="village-level019a.png" x="705" y="634" width="97" height="119" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="97" srcheight="119"/>
+    <textureregion id="25" src="village-level019b.png" x="2" y="636" width="257" height="127" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="257" srcheight="127"/>
+    <textureregion id="26" src="village-level020.png" x="2" y="484" width="353" height="150" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="353" srcheight="150"/>
+    <textureregion id="27" src="village.png" x="2" y="2" width="800" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="480"/>
+</texture>

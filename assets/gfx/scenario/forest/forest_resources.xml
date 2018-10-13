@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="forest_resources.png" type="bitmap" width="1756" height="883" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:21f6d7e13f41f162c35d20da64029719:5dee0e14a74e854580e6843b34294738:82db98ab6cbe01560b2f63d5b38e2ae6$ -->
+    <textureregion id="0" src="background1.png" x="2" y="2" width="800" height="325" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="325"/>
+    <textureregion id="1" src="background2.png" x="330" y="2" width="800" height="115" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="115"/>
+    <textureregion id="2" src="clouds.png" x="448" y="2" width="800" height="103" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="103"/>
+    <textureregion id="3" src="forest-0.png" x="554" y="797" width="1200" height="84" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1200" srcheight="84"/>
+    <textureregion id="4" src="forest-1.png" x="554" y="670" width="1200" height="124" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1200" srcheight="124"/>
+    <textureregion id="5" src="forest-2.png" x="554" y="376" width="1200" height="164" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1200" srcheight="164"/>
+    <textureregion id="6" src="forest-3.png" x="554" y="209" width="1200" height="164" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1200" srcheight="164"/>
+    <textureregion id="7" src="forest-4.png" x="554" y="2" width="1200" height="204" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1200" srcheight="204"/>
+    <textureregion id="8" src="forest-5.png" x="554" y="543" width="1200" height="124" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1200" srcheight="124"/>
+</texture>

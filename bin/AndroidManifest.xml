@@ -1,0 +1,71 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="6" android:versionName="1.4" package="com.visivaemobile.minescape">
+
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="22"/>
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    
+    <uses-feature android:glEsVersion="0x00020000"/>
+
+    <application android:allowBackup="true" android:hardwareAccelerated="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:theme="@style/AppTheme">
+        <activity android:configChanges="orientation|screenSize" android:label="@string/app_name" android:name="com.visivaemobile.minescape.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:configChanges="orientation|screenSize" android:name="com.visivaemobile.minescape.GameActivity">            
+        </activity>
+        
+        <!-- TESTING ACTIVITY FOR MEDIATION -->
+        <!-- 
+        <activity android:name="com.heyzap.sdk.ads.MediationTestActivity" android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize" />
+         -->
+         
+        <!-- Google Play Services -->
+<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+<meta-data android:name="com.google.android.gms.games.APP_ID" android:value="@string/app_id"/>
+
+<!-- AdMob -->
+<activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:name="com.google.android.gms.ads.AdActivity"/>
+
+<!-- UnityAds (Applifier) -->
+<activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen" android:hardwareAccelerated="true" android:name="com.unity3d.ads.android.view.UnityAdsFullscreenActivity"/>
+
+<!-- Heyzap -->
+<activity android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize" android:name="com.heyzap.sdk.ads.HeyzapInterstitialActivity"/>
+<activity android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize" android:name="com.heyzap.sdk.ads.HeyzapVideoActivity"/>
+<activity android:name="com.heyzap.sdk.ads.HeyzapProxyActivity"/>
+<activity android:name="com.heyzap.sdk.ads.VASTActivity"/>
+<receiver android:name="com.heyzap.sdk.ads.PackageAddedReceiver">
+<intent-filter>
+  <data android:scheme="package"/>
+  <action android:name="android.intent.action.PACKAGE_ADDED"/>
+</intent-filter>
+</receiver>
+        
+        <meta-data android:name="io.fabric.ApiKey" android:value="368fb55089c1a20ad33cac0725fe337019d29a63"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.PhoneNumberActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.ConfirmationCodeActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.LoginCodeActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.PinCodeActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.FailureActivity" android:taskAffinity="com.digits.sdk.android"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.ContactsActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.PhoneNumberActionBarActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.ConfirmationCodeActionBarActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.LoginCodeActionBarActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.FailureActionBarActivity" android:taskAffinity="com.digits.sdk.android"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.ContactsActionBarActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="com.digits.sdk.android.PinCodeActionBarActivity" android:taskAffinity="com.digits.sdk.android" android:windowSoftInputMode="stateVisible"/>
+
+        <service android:enabled="true" android:exported="false" android:name="com.digits.sdk.android.ContactsUploadService"/>
+        <activity android:configChanges="orientation|screenSize" android:excludeFromRecents="true" android:exported="false" android:name="com.twitter.sdk.android.core.identity.OAuthActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:excludeFromRecents="true" android:exported="false" android:icon="@drawable/tw__transparent" android:label="@string/kit_name" android:name="com.twitter.sdk.android.core.identity.ShareEmailActivity"/>
+    </application>
+
+</manifest>

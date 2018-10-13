@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="game_resources.png" type="bitmap" width="1986" height="964" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:28828defd4e6c6ad97fb01c0f94f1024:85b5edfc296c0fa2945da094572f7920:f652c1be86ce46798bfc490a3934930b$ -->
+    <textureregion id="0" src="button.png" x="1484" y="521" width="295" height="85" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="295" srcheight="85"/>
+    <textureregion id="1" src="circle.png" x="1894" y="401" width="80" height="80" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="80"/>
+    <textureregion id="2" src="crafting-table.png" x="1934" y="483" width="40" height="40" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="40" srcheight="40"/>
+    <textureregion id="3" src="creeper-tiled.png" x="1484" y="608" width="232" height="92" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="232" srcheight="92"/>
+    <textureregion id="4" src="dialog-back.png" x="1484" y="2" width="500" height="250" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="500" srcheight="250"/>
+    <textureregion id="5" src="health-tiled.png" x="1781" y="521" width="105" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="35"/>
+    <textureregion id="6" src="helmet-tiled.png" x="1810" y="426" width="80" height="72" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="72"/>
+    <textureregion id="7" src="items-tiled.png" x="1718" y="695" width="210" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="210" srcheight="52"/>
+    <textureregion id="8" src="ore-tiled.png" x="1892" y="483" width="40" height="210" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="40" srcheight="210"/>
+    <textureregion id="9" src="particle_debris.png" x="1966" y="271" width="5" height="5" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="5" srcheight="5"/>
+    <textureregion id="10" src="particle_die.png" x="1966" y="254" width="15" height="15" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="15" srcheight="15"/>
+    <textureregion id="11" src="particle_fire.png" x="1934" y="525" width="32" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="32"/>
+    <textureregion id="12" src="skeleton-tiled.png" x="1484" y="319" width="408" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="408" srcheight="105"/>
+    <textureregion id="13" src="spider-tiled.png" x="1484" y="254" width="480" height="63" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="480" srcheight="63"/>
+    <textureregion id="14" src="steve-tiled.png" x="2" y="2" width="1480" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1480" srcheight="960"/>
+    <textureregion id="15" src="swords-tiled.png" x="1894" y="319" width="80" height="80" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="80"/>
+    <textureregion id="16" src="zombie-tiled.png" x="1484" y="426" width="324" height="93" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="324" srcheight="93"/>
+</texture>
